@@ -1,4 +1,4 @@
-# careers-API
+# placement-tracker-API
 
 ### A Node.js API that can be used for a careers/hiring platform.
 
