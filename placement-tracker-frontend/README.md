@@ -1,6 +1,6 @@
-# Full Stack Hiring Portal 🚀
+# Placement Tracker Portal 🚀
 
-A full-fledged hiring portal, that can be used by an organisation to post & manage vacancies and shortlist genuine candidates with a clean, beautiful user interface and a hassle-free user experience.
+A full-fledged placement tracker portal, that can be used by an organisation to post & manage vacancies and shortlist genuine candidates with a clean, beautiful user interface and a hassle-free user experience.
 
 ## Live preview 👀
 
